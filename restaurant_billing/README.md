@@ -44,22 +44,22 @@ applying discounts, exporting sales data, and managing restaurant orders efficie
 ## Result
 
 ### Login Page for Admin/Cashier
-![Login](https://github.com/jananiii18/Restaurant-Billing-Software-Project./blob/29eb896a1ad7928460bcd3a99533a0e489e7d304/Login.png)
+![Login](https://github.com/jananiii18/Restaurant-Billing-Software-RBS-/blob/6010023cfba4ae569e28ae98063034147384fe7a/Login.png)
 
 ### Main Billing Screen  
-![Main Screen](https://github.com/jananiii18/Restaurant-Billing-Software-Project./blob/29eb896a1ad7928460bcd3a99533a0e489e7d304/Main.png)
+![Main Screen](https://github.com/jananiii18/Restaurant-Billing-Software-RBS-/blob/6010023cfba4ae569e28ae98063034147384fe7a/Main.png)
 
 ### Select Items
-![Items](https://github.com/jananiii18/Restaurant-Billing-Software-Project./blob/29eb896a1ad7928460bcd3a99533a0e489e7d304/Items.png)
+![Items](https://github.com/jananiii18/Restaurant-Billing-Software-RBS-/blob/6010023cfba4ae569e28ae98063034147384fe7a/Items.png)
 
 ### Bill Generation
-![Bill Summary](https://github.com/jananiii18/Restaurant-Billing-Software-Project./blob/29eb896a1ad7928460bcd3a99533a0e489e7d304/Bill.png)
+![Bill Summary](https://github.com/jananiii18/Restaurant-Billing-Software-RBS-/blob/6010023cfba4ae569e28ae98063034147384fe7a/Bill.png)
 
 ### Menu Management  
-![Menu](https://github.com/jananiii18/Restaurant-Billing-Software-Project./blob/29eb896a1ad7928460bcd3a99533a0e489e7d304/Menu.png)
+![Menu](https://github.com/jananiii18/Restaurant-Billing-Software-RBS-/blob/6010023cfba4ae569e28ae98063034147384fe7a/Menu.png)
 
 ### Export
-![Export](https://github.com/jananiii18/Restaurant-Billing-Software-Project./blob/29eb896a1ad7928460bcd3a99533a0e489e7d304/Reports.png)
+![Export](https://github.com/jananiii18/Restaurant-Billing-Software-RBS-/blob/6010023cfba4ae569e28ae98063034147384fe7a/Reports.png)
 
 
 Developed by Janani B
