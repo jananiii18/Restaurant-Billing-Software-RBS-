@@ -60,7 +60,3 @@ applying discounts, exporting sales data, and managing restaurant orders efficie
 
 ### Export
 ![Export](https://github.com/jananiii18/Restaurant-Billing-Software-RBS-/blob/6010023cfba4ae569e28ae98063034147384fe7a/Reports.png)
-
-
-Developed by Janani B
-jannanibharathiii@gmail.com
