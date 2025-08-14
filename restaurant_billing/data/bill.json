@@ -1,0 +1,33 @@
+{
+  "order_id": 1755182001,
+  "timestamp": "2025-08-14 20:03:21",
+  "mode": "Takeaway",
+  "payment_method": "Cash",
+  "items": [
+    {
+      "item_name": "Pasta",
+      "quantity": 1,
+      "price": 250.0,
+      "gst": 5.0,
+      "line_total": 250.0
+    },
+    {
+      "item_name": "Burger",
+      "quantity": 2,
+      "price": 250.0,
+      "gst": 5.0,
+      "line_total": 500.0
+    },
+    {
+      "item_name": "Pizza",
+      "quantity": 2,
+      "price": 200.0,
+      "gst": 5.0,
+      "line_total": 400.0
+    }
+  ],
+  "subtotal": 1150.0,
+  "gst_total": 57.5,
+  "discount_pct": 0.0,
+  "total": 1207.5
+}
